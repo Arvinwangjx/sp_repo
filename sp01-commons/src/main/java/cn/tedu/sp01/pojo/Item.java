@@ -13,5 +13,5 @@ public class Item {
 	//商品名
 	private String name;
 	private Integer number;
-	//11111111111111111
+	//111111111111111111
 }
